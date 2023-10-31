@@ -4,7 +4,7 @@
 
 Учебный проект по верстке
 
-[See demo]()
+[See demo](https://polyvit.github.io/Game_page/)
 
 _Completed in 2023_
 
