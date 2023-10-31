@@ -1,6 +1,6 @@
 <image src="https://i.ibb.co/GJ41tQh/logo-1.png" alt="logo" border="0">
 
-# Balloons
+# Game Page
 
 Учебный проект по верстке
 
